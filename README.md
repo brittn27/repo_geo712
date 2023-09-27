@@ -5,4 +5,5 @@ This is my initial repository for GEO 712.
 Hello world.
 
 ## I am making a local change within Rstudio here.
-blah blah.
+
+I am making more legitimate changes to this file now.
