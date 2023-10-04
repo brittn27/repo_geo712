@@ -1,0 +1,23 @@
+Project Data Analysis – October 4, 2023
+
+GEO 712 Reproducible Workflow: Assignment
+
+Data:
+-	Collect research data from participants via SONA
+-	These datasets will be collected individually and appended in a large ‘Master’ spreadsheet
+
+Legal & Ethics:
+-	Ethical approve was received from the McMaster Research Ethics Board (MREB)
+-	No legal restrictions at this present moment (Oct 4, 2023)
+
+Quick Hit Notes:
+-	Raw data file will be each individual raw participant data files that are kept aside from the Master spreadsheet
+-	Data files per participant will be exported in .csv format – Master will be in .xlsx
+-	File names will look as follows:
+o	Data: 01_Data.csv
+	Master: 00_MasterData.xlsx
+o	Writing: v00_ManuscriptX.docx
+-	Standards:
+o	Data collection must follow typical spatial cueing procedures used in the SunLab
+o	Procedures for the experiments will vary across experiments but will be explicit in a ‘Trial Experimenter Sheet’ for each experimenter to use as a reference while collecting data from each participant
+o	Output data files are to be stored in the appropriate ‘Data’ folder under the associated project, as well are to be emailed to Noah (brittn@mcmaster.ca )
